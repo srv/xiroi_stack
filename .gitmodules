@@ -1,0 +1,21 @@
+[submodule "cola2_xiroi"]
+	path = cola2_xiroi
+	url = git@github.com:srv/cola2_xiroi.git
+[submodule "xiroi_description"]
+	path = xiroi_description
+	url = git@github.com:srv/xiroi_description.git
+[submodule "razor_imu_9dof"]
+	path = razor_imu_9dof
+	url = git@github.com:srv/razor_imu_9dof.git
+[submodule "robot_localization"]
+	path = robot_localization
+	url = git@github.com:srv/robot_localization.git
+[submodule "emlid_reach_tcp"]
+	path = emlid_reach_tcp
+	url = git@github.com:srv/emlid_reach_tcp.git
+[submodule "memsense_imu"]
+	path = memsense_imu
+	url = git@github.com:srv/memsense_imu.git
+[submodule "ned_tools"]
+	path = ned_tools
+	url = git@github.com:srv/ned_tools.git

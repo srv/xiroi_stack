@@ -19,3 +19,12 @@
 [submodule "ned_tools"]
 	path = ned_tools
 	url = git@github.com:srv/ned_tools.git
+[submodule "cola2_core"]
+	path = cola2_core
+	url = https://bitbucket.org/iquarobotics/cola2_core.git
+[submodule "cola2_msgs"]
+	path = cola2_msgs
+	url = https://bitbucket.org/iquarobotics/cola2_msgs.git
+[submodule "cola2_lib"]
+	path = cola2_lib
+	url = https://bitbucket.org/iquarobotics/cola2_lib.git

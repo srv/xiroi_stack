@@ -31,6 +31,4 @@
 [submodule "imu_tools"]
 	path = imu_tools
 	url = https://github.com/ccny-ros-pkg/imu_tools.git
-[submodule "srv_tools"]
-	path = srv_tools
-	url = git@github.com:srv/srv_tools.git
+

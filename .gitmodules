@@ -4,9 +4,6 @@
 [submodule "xiroi_description"]
 	path = xiroi_description
 	url = git@github.com:srv/xiroi_description.git
-[submodule "razor_imu_9dof"]
-	path = razor_imu_9dof
-	url = git@github.com:srv/razor_imu_9dof.git
 [submodule "robot_localization"]
 	path = robot_localization
 	url = git@github.com:srv/robot_localization.git

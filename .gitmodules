@@ -29,3 +29,9 @@
 	path = imu_tools
 	url = https://github.com/ccny-ros-pkg/imu_tools.git
 
+[submodule "m4atx_battery_monitor"]
+	path = m4atx_battery_monitor
+	url = git@github.com:srv/m4atx_battery_monitor.git
+[submodule "pg_spinnaker_camera"]
+	path = pg_spinnaker_camera
+	url = git@github.com:srv/pg_spinnaker_camera.git

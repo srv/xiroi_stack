@@ -1,27 +1,27 @@
 [submodule "cola2_xiroi"]
 	path = cola2_xiroi
 	url = git@github.com:srv/cola2_xiroi.git
-	branch = kinetic
+	branch = melodic
 [submodule "xiroi_description"]
 	path = xiroi_description
 	url = git@github.com:srv/xiroi_description.git
-	branch = kinetic
+	branch = melodic
 [submodule "robot_localization"]
 	path = robot_localization
 	url = git@github.com:srv/robot_localization.git
-	branch = kinetic
+	branch = melodic
 [submodule "emlid_reach_tcp"]
 	path = emlid_reach_tcp
 	url = git@github.com:srv/emlid_reach_tcp.git
-	branch = kinetic
+	branch = melodic
 [submodule "memsense_imu"]
 	path = memsense_imu
 	url = git@github.com:srv/memsense_imu.git
-	branch = kinetic
+	branch = melodic
 [submodule "ned_tools"]
 	path = ned_tools
 	url = git@github.com:srv/ned_tools.git
-	branch = kinetic
+	branch = melodic
 [submodule "cola2_core"]
 	path = cola2_core
 	url = https://bitbucket.org/iquarobotics/cola2_core.git
@@ -36,7 +36,7 @@
 	branch = master
 [submodule "imu_tools"]
 	path = imu_tools
-	url = https://github.com/ccny-ros-pkg/imu_tools.git
+	url = git@github.com:srv/imu_tools.git
 	branch = kinetic
 [submodule "m4atx_battery_monitor"]
 	path = m4atx_battery_monitor
@@ -50,3 +50,6 @@
 	path = ros_arduino_bridge
 	url = https://github.com/hbrobotics/ros_arduino_bridge.git
 	branch = kinetic-devel
+[submodule "mjpeg_server"]
+	path = mjpeg_server
+	url = https://github.com/srv/mjpeg_server.git

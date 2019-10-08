@@ -53,3 +53,7 @@
 [submodule "mjpeg_server"]
 	path = mjpeg_server
 	url = https://github.com/srv/mjpeg_server.git
+[submodule "image_proc_custom"]
+	path = image_proc_custom
+	url = git@github.com:srv/image_proc_custom.git
+	branch = melodic

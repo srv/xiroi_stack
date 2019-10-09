@@ -50,3 +50,9 @@
 	path = ros_arduino_bridge
 	url = https://github.com/hbrobotics/ros_arduino_bridge.git
 	branch = kinetic-devel
+[submodule "usbl_position"]
+	path = usbl_position
+	url = git@github.com:srv/usbl_position.git
+[submodule "evologics_ros_sync"]
+	path = evologics_ros_sync
+	url = git@github.com:srv/evologics_ros_sync.git

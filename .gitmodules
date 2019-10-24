@@ -57,3 +57,9 @@
 	path = image_proc_custom
 	url = git@github.com:srv/image_proc_custom.git
 	branch = melodic
+[submodule "evologics_ros_sync"]
+	path = evologics_ros_sync
+	url = git@github.com:srv/evologics_ros_sync.git
+[submodule "usbl_position"]
+	path = usbl_position
+	url = git@github.com:srv/usbl_position.git

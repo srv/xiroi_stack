@@ -41,11 +41,7 @@
 [submodule "m4atx_battery_monitor"]
 	path = m4atx_battery_monitor
 	url = git@github.com:srv/m4atx_battery_monitor.git
-	branch = kinetic
-[submodule "pg_spinnaker_camera"]
-	path = pg_spinnaker_camera
-	url = git@github.com:srv/pg_spinnaker_camera.git
-	branch = kinetic
+	branch = melodic
 [submodule "ros_arduino_bridge"]
 	path = ros_arduino_bridge
 	url = https://github.com/hbrobotics/ros_arduino_bridge.git

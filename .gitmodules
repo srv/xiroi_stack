@@ -37,18 +37,19 @@
 [submodule "imu_tools"]
 	path = imu_tools
 	url = git@github.com:srv/imu_tools.git
-	branch = kinetic
+	branch = melodic
 [submodule "m4atx_battery_monitor"]
 	path = m4atx_battery_monitor
 	url = git@github.com:srv/m4atx_battery_monitor.git
 	branch = melodic
 [submodule "ros_arduino_bridge"]
 	path = ros_arduino_bridge
-	url = https://github.com/hbrobotics/ros_arduino_bridge.git
-	branch = kinetic-devel
+	url = git@github.com:srv/ros_arduino_bridge.git
+	branch = melodic
 [submodule "mjpeg_server"]
 	path = mjpeg_server
 	url = https://github.com/srv/mjpeg_server.git
+	branch = melodic
 [submodule "image_proc_custom"]
 	path = image_proc_custom
 	url = git@github.com:srv/image_proc_custom.git
@@ -56,15 +57,20 @@
 [submodule "evologics_ros_sync"]
 	path = evologics_ros_sync
 	url = git@github.com:srv/evologics_ros_sync.git
+	branch = melodic
 [submodule "usbl_position"]
 	path = usbl_position
 	url = git@github.com:srv/usbl_position.git
+	branch = melodic
 [submodule "camera1394stereo"]
 	path = camera1394stereo
 	url = git@github.com:srv/camera1394stereo.git
+	branch = melodic
 [submodule "pointgrey_camera_driver"]
 	path = pointgrey_camera_driver
 	url = https://github.com/ros-drivers/pointgrey_camera_driver.git
+	branch = melodic
 [submodule "multimaster_fkie"]
 	path = multimaster_fkie
 	url = git@github.com:srv/multimaster_fkie.git
+	branch = melodic

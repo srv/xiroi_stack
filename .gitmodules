@@ -24,15 +24,15 @@
 	branch = melodic
 [submodule "cola2_core"]
 	path = cola2_core
-	url = https://bitbucket.org/iquarobotics/cola2_core.git
+	url = git@github.com:srv/cola2_core.git
 	branch = master
 [submodule "cola2_msgs"]
 	path = cola2_msgs
-	url = https://bitbucket.org/iquarobotics/cola2_msgs.git
+	url = git@github.com:srv/cola2_msgs.git
 	branch = master
 [submodule "cola2_lib"]
 	path = cola2_lib
-	url = https://bitbucket.org/iquarobotics/cola2_lib.git
+	url = git@github.com:srv/cola2_lib.git
 	branch = master
 [submodule "imu_tools"]
 	path = imu_tools

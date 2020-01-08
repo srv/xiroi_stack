@@ -25,15 +25,15 @@
 [submodule "cola2_core"]
 	path = cola2_core
 	url = git@github.com:srv/cola2_core.git
-	branch = master
+	branch = melodic
 [submodule "cola2_msgs"]
 	path = cola2_msgs
 	url = git@github.com:srv/cola2_msgs.git
-	branch = master
+	branch = melodic
 [submodule "cola2_lib"]
 	path = cola2_lib
 	url = git@github.com:srv/cola2_lib.git
-	branch = master
+	branch = melodic
 [submodule "imu_tools"]
 	path = imu_tools
 	url = git@github.com:srv/imu_tools.git

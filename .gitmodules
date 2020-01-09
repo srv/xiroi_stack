@@ -74,3 +74,6 @@
 	path = multimaster_fkie
 	url = git@github.com:srv/multimaster_fkie.git
 	branch = melodic
+[submodule "ROS-EcoSounder-driver-Imaagenex-852-000-140"]
+	path = ROS-EcoSounder-driver-Imaagenex-852-000-140
+	url = git@github.com:srv/ROS-EcoSounder-driver-Imaagenex-852-000-140.git

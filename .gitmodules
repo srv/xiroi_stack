@@ -1,7 +1,7 @@
 [submodule "cola2_xiroi"]
 	path = cola2_xiroi
 	url = git@github.com:srv/cola2_xiroi.git
-	branch = melodic
+	branch = dev
 [submodule "xiroi_description"]
 	path = xiroi_description
 	url = git@github.com:srv/xiroi_description.git
@@ -74,3 +74,6 @@
 	path = multimaster_fkie
 	url = git@github.com:srv/multimaster_fkie.git
 	branch = melodic
+[submodule "iquaview"]
+	path = iquaview
+	url = git@github.com:srv/iquaview.git

@@ -53,3 +53,7 @@ To remove a submodule you need to:
 - Commit git commit -m "Removed submodule <name>"
 - Delete the now untracked submodule files rm -rf path_to_submodule
 
+
+## Packages to ignor if using it outside of the robot
+ - m4atx_battery_monitor
+ - pointgrey_camera_driver

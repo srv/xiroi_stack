@@ -77,3 +77,6 @@
 [submodule "iquaview"]
 	path = iquaview
 	url = git@github.com:srv/iquaview.git
+[submodule "flir_camera_driver"]
+	path = flir_camera_driver
+	url = git@github.com:srv/flir_camera_driver.git

@@ -80,3 +80,6 @@
 [submodule "flir_camera_driver"]
 	path = flir_camera_driver
 	url = git@github.com:srv/flir_camera_driver.git
+[submodule "magnetometer_1540"]
+	path = magnetometer_1540
+	url = https://github.com/srv/magnetometer_1540

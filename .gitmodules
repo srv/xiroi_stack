@@ -85,3 +85,7 @@
 	path = magnetometer_1540
 	url = https://github.com/srv/magnetometer_1540
 	branch = master
+[submodule "visual_altimeter"]
+	path = visual_altimeter
+	url = https://github.com/srv/visual_altimeter.git
+	branch = melodic

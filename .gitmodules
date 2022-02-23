@@ -1,7 +1,7 @@
 [submodule "cola2_xiroi"]
 	path = cola2_xiroi
 	url = git@github.com:srv/cola2_xiroi.git
-	branch = dev
+	branch = melodic
 [submodule "xiroi_description"]
 	path = xiroi_description
 	url = git@github.com:srv/xiroi_description.git
@@ -66,10 +66,6 @@
 	path = camera1394stereo
 	url = git@github.com:srv/camera1394stereo.git
 	branch = melodic
-[submodule "pointgrey_camera_driver"]
-	path = pointgrey_camera_driver
-	url = https://github.com/srv/pointgrey_camera_driver.git
-	branch = melodic
 [submodule "multimaster_fkie"]
 	path = multimaster_fkie
 	url = git@github.com:srv/multimaster_fkie.git
@@ -80,11 +76,11 @@
 [submodule "flir_camera_driver"]
 	path = flir_camera_driver
 	url = git@github.com:srv/flir_camera_driver.git
-	branch = ch3_srv
+	branch = melodic
 [submodule "magnetometer_1540"]
 	path = magnetometer_1540
 	url = https://github.com/srv/magnetometer_1540
-	branch = master
+	branch = melodic
 [submodule "visual_altimeter"]
 	path = visual_altimeter
 	url = https://github.com/srv/visual_altimeter.git

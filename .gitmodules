@@ -41,6 +41,7 @@
 [submodule "iquaview"]
 	path = iquaview
 	url = git@github.com:srv/iquaview.git
+	branch = melodic
 [submodule "link_quality"]
 	path = link_quality
 	url = git@github.com:srv/link_quality.git

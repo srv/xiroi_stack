@@ -1,90 +1,107 @@
-[submodule "cola2_xiroi"]
-	path = cola2_xiroi
-	url = git@github.com:srv/cola2_xiroi.git
-	branch = melodic
-[submodule "xiroi_description"]
-	path = xiroi_description
-	url = git@github.com:srv/xiroi_description.git
-	branch = melodic
-[submodule "robot_localization"]
-	path = robot_localization
-	url = git@github.com:srv/robot_localization.git
-	branch = melodic
-[submodule "emlid_reach_tcp"]
-	path = emlid_reach_tcp
-	url = git@github.com:srv/emlid_reach_tcp.git
-	branch = melodic
-[submodule "memsense_imu"]
-	path = memsense_imu
-	url = git@github.com:srv/memsense_imu.git
-	branch = melodic
-[submodule "ned_tools"]
-	path = ned_tools
-	url = git@github.com:srv/ned_tools.git
+[submodule "camera1394stereo"]
+	path = camera1394stereo
+	url = git@github.com:srv/camera1394stereo.git
 	branch = melodic
 [submodule "cola2_core"]
 	path = cola2_core
 	url = git@github.com:srv/cola2_core.git
 	branch = melodic
-[submodule "cola2_msgs"]
-	path = cola2_msgs
-	url = git@github.com:srv/cola2_msgs.git
-	branch = melodic
 [submodule "cola2_lib"]
 	path = cola2_lib
 	url = git@github.com:srv/cola2_lib.git
 	branch = melodic
-[submodule "imu_tools"]
-	path = imu_tools
-	url = git@github.com:srv/imu_tools.git
+[submodule "cola2_msgs"]
+	path = cola2_msgs
+	url = git@github.com:srv/cola2_msgs.git
 	branch = melodic
-[submodule "m4atx_battery_monitor"]
-	path = m4atx_battery_monitor
-	url = git@github.com:srv/m4atx_battery_monitor.git
+[submodule "cola2_xiroi"]
+	path = cola2_xiroi
+	url = git@github.com:srv/cola2_xiroi.git
 	branch = melodic
-[submodule "ros_arduino_bridge"]
-	path = ros_arduino_bridge
-	url = git@github.com:srv/ros_arduino_bridge.git
-	branch = melodic
-[submodule "mjpeg_server"]
-	path = mjpeg_server
-	url = https://github.com/srv/mjpeg_server.git
-	branch = melodic
-[submodule "image_proc_custom"]
-	path = image_proc_custom
-	url = git@github.com:srv/image_proc_custom.git
+[submodule "emlid_reach_tcp"]
+	path = emlid_reach_tcp
+	url = git@github.com:srv/emlid_reach_tcp.git
 	branch = melodic
 [submodule "evologics_ros_sync"]
 	path = evologics_ros_sync
 	url = git@github.com:srv/evologics_ros_sync.git
 	branch = melodic
-[submodule "usbl_position"]
-	path = usbl_position
-	url = git@github.com:srv/usbl_position.git
+[submodule "flir_camera_driver"]
+	path = flir_camera_driver
+	url = git@github.com:srv/flir_camera_driver.git
 	branch = melodic
-[submodule "camera1394stereo"]
-	path = camera1394stereo
-	url = git@github.com:srv/camera1394stereo.git
+[submodule "image_proc_custom"]
+	path = image_proc_custom
+	url = git@github.com:srv/image_proc_custom.git
 	branch = melodic
-[submodule "multimaster_fkie"]
-	path = multimaster_fkie
-	url = git@github.com:srv/multimaster_fkie.git
+[submodule "imu_tools"]
+	path = imu_tools
+	url = git@github.com:srv/imu_tools.git
 	branch = melodic
 [submodule "iquaview"]
 	path = iquaview
 	url = git@github.com:srv/iquaview.git
-[submodule "flir_camera_driver"]
-	path = flir_camera_driver
-	url = git@github.com:srv/flir_camera_driver.git
+[submodule "link_quality"]
+	path = link_quality
+	url = https://github.com/martorelltorres/link_quality.git
+	branch = xiroi
+[submodule "m4atx_battery_monitor"]
+	path = m4atx_battery_monitor
+	url = git@github.com:srv/m4atx_battery_monitor.git
 	branch = melodic
 [submodule "magnetometer_1540"]
 	path = magnetometer_1540
 	url = https://github.com/srv/magnetometer_1540
 	branch = melodic
+[submodule "memsense_imu"]
+	path = memsense_imu
+	url = git@github.com:srv/memsense_imu.git
+	branch = melodic
+[submodule "mjpeg_server"]
+	path = mjpeg_server
+	url = https://github.com/srv/mjpeg_server.git
+	branch = melodic
+[submodule "multimaster_fkie"]
+	path = multimaster_fkie
+	url = git@github.com:srv/multimaster_fkie.git
+	branch = melodic
+[submodule "ned_tools"]
+	path = ned_tools
+	url = git@github.com:srv/ned_tools.git
+	branch = melodic
+[submodule "robot_localization"]
+	path = robot_localization
+	url = git@github.com:srv/robot_localization.git
+	branch = melodic_uib
+[submodule "ros_arduino_bridge"]
+	path = ros_arduino_bridge
+	url = git@github.com:srv/ros_arduino_bridge.git
+	branch = xiroi
+[submodule "usbl_position"]
+	path = usbl_position
+	url = git@github.com:srv/usbl_position.git
+	branch = melodic
 [submodule "visual_altimeter"]
 	path = visual_altimeter
 	url = https://github.com/srv/visual_altimeter.git
 	branch = melodic
-[submodule "link_quality"]
-	path = link_quality
-	url = https://github.com/martorelltorres/link_quality.git
+[submodule "xiroi_description"]
+	path = xiroi_description
+	url = git@github.com:srv/xiroi_description.git
+	branch = melodic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

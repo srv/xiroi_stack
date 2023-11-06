@@ -41,6 +41,10 @@
 [submodule "iquaview"]
 	path = iquaview
 	url = git@github.com:srv/iquaview.git
+[submodule "link_quality"]
+	path = link_quality
+	url = git@github.com:srv/link_quality.git
+	branch = xiroi
 [submodule "m4atx_battery_monitor"]
 	path = m4atx_battery_monitor
 	url = git@github.com:srv/m4atx_battery_monitor.git
@@ -85,19 +89,3 @@
 	path = xiroi_description
 	url = git@github.com:srv/xiroi_description.git
 	branch = melodic
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

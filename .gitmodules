@@ -29,7 +29,6 @@
 [submodule "flir_camera_driver"]
 	path = flir_camera_driver
 	url = git@github.com:srv/flir_camera_driver.git
-	branch = melodic
 [submodule "image_proc_custom"]
 	path = image_proc_custom
 	url = git@github.com:srv/image_proc_custom.git

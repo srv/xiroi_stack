@@ -69,6 +69,10 @@
 	path = ned_tools
 	url = git@github.com:srv/ned_tools.git
 	branch = melodic
+[submodule "pointgrey_camera_driver"]
+	path = pointgrey_camera_driver
+	url = git@github.com:srv/pointgrey_camera_driver.git
+	branch = melodic
 [submodule "robot_localization"]
 	path = robot_localization
 	url = git@github.com:srv/robot_localization.git
@@ -89,3 +93,4 @@
 	path = xiroi_description
 	url = git@github.com:srv/xiroi_description.git
 	branch = melodic
+

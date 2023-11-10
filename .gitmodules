@@ -29,6 +29,7 @@
 [submodule "flir_camera_driver"]
 	path = flir_camera_driver
 	url = git@github.com:srv/flir_camera_driver.git
+	branch = ch3_srv
 [submodule "image_proc_custom"]
 	path = image_proc_custom
 	url = git@github.com:srv/image_proc_custom.git
@@ -68,10 +69,6 @@
 [submodule "ned_tools"]
 	path = ned_tools
 	url = git@github.com:srv/ned_tools.git
-	branch = melodic
-[submodule "pointgrey_camera_driver"]
-	path = pointgrey_camera_driver
-	url = git@github.com:srv/pointgrey_camera_driver.git
 	branch = melodic
 [submodule "robot_localization"]
 	path = robot_localization

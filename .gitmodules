@@ -13,7 +13,7 @@
 [submodule "cola2_xiroi"]
 	path = cola2_xiroi
 	url = git@github.com:srv/cola2_xiroi.git
-	branch = melodic
+	branch = dev
 [submodule "emlid_reach_tcp"]
 	path = emlid_reach_tcp
 	url = git@github.com:srv/emlid_reach_tcp.git

@@ -8,6 +8,10 @@ Clone this repository and execute the script `install_first_time.sh`
 
 Wait for the code to download.
 
+Install dependencies
+
+      $ sudo apt install libgeographic-dev ros-melodic-geographic-msgs
+
 ## Working with submodules
 ### Pull & push twice
 

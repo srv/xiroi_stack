@@ -21,7 +21,7 @@
 [submodule "evologics_ros_sync"]
 	path = evologics_ros_sync
 	url = git@github.com:srv/evologics_ros_sync.git
-	branch = melodic
+	branch = dev
 [submodule "flir_camera_driver"]
 	path = flir_camera_driver
 	url = git@github.com:srv/flir_camera_driver.git

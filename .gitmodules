@@ -1,7 +1,7 @@
 [submodule "cola2_core"]
 	path = cola2_core
 	url = git@github.com:srv/cola2_core.git
-	branch = melodic
+	branch = noetic-24.01-xiroi
 [submodule "cola2_lib"]
 	path = cola2_lib
 	url = git@github.com:srv/cola2_lib.git

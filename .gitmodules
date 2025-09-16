@@ -45,11 +45,11 @@
 [submodule "m4atx_battery_monitor"]
 	path = m4atx_battery_monitor
 	url = git@github.com:srv/m4atx_battery_monitor.git
-	branch = noetic-uib
+	branch = melodic
 [submodule "memsense_imu"]
 	path = memsense_imu
 	url = git@github.com:srv/memsense_imu.git
-	branch = melodic
+	branch = noetic-uib
 [submodule "multimaster_fkie"]
 	path = multimaster_fkie
 	url = git@github.com:srv/multimaster_fkie.git

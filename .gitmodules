@@ -17,7 +17,7 @@
 [submodule "emlid_reach_tcp"]
 	path = emlid_reach_tcp
 	url = git@github.com:srv/emlid_reach_tcp.git
-	branch = melodic
+	branch = noetic-uib
 [submodule "evologics_ros_sync"]
 	path = evologics_ros_sync
 	url = git@github.com:srv/evologics_ros_sync.git
@@ -45,7 +45,7 @@
 [submodule "m4atx_battery_monitor"]
 	path = m4atx_battery_monitor
 	url = git@github.com:srv/m4atx_battery_monitor.git
-	branch = melodic
+	branch = noetic-uib
 [submodule "memsense_imu"]
 	path = memsense_imu
 	url = git@github.com:srv/memsense_imu.git

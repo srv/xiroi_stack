@@ -5,11 +5,11 @@
 [submodule "cola2_lib"]
 	path = cola2_lib
 	url = git@github.com:srv/cola2_lib.git
-	branch = melodic
+	branch = noetic-24.01
 [submodule "cola2_msgs"]
 	path = cola2_msgs
 	url = git@github.com:srv/cola2_msgs.git
-	branch = melodic
+	branch = noetic-24.01
 [submodule "cola2_xiroi"]
 	path = cola2_xiroi
 	url = git@github.com:srv/cola2_xiroi.git
@@ -81,6 +81,6 @@
 [submodule "xiroi_description"]
 	path = xiroi_description
 	url = git@github.com:srv/xiroi_description.git
-	branch = melodic
+	branch = noetic
 
 
